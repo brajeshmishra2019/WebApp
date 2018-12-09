@@ -5,7 +5,7 @@ import javax.servlet.*;
 import javax.servlet.http.*;
 
 import java.sql.*;
- //test
+
 public class cancelpage extends HttpServlet {
 	
 	public void doPost(HttpServletRequest req,HttpServletResponse res)
